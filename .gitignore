@@ -1,0 +1,8 @@
+# Sublime Text
+/platform.sublime-workspace
+
+# Go
+*.coverprofile
+
+# Project
+/_bin
