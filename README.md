@@ -3,6 +3,8 @@
 A command-line tool to easily interact with the Tidepool platform API.
 
 [![Build Status](https://travis-ci.org/tidepool-org/tidepool-cli.png)](https://travis-ci.org/tidepool-org/tidepool-cli)
+[![Code Climate](https://codeclimate.com/github/tidepool-org/tidepool-cli/badges/gpa.svg)](https://codeclimate.com/github/tidepool-org/tidepool-cli)
+[![Issue Count](https://codeclimate.com/github/tidepool-org/tidepool-cli/badges/issue_count.svg)](https://codeclimate.com/github/tidepool-org/tidepool-cli)
 
 # Environment
 
