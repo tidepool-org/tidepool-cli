@@ -2,6 +2,8 @@
 
 A command-line tool to easily interact with the Tidepool platform API.
 
+[![Build Status](https://travis-ci.org/tidepool-org/tidepool-cli.png)](https://travis-ci.org/tidepool-org/tidepool-cli)
+
 # Environment
 
 1. Create a brand new `go` directory.
