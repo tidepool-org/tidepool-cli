@@ -1,11 +1,11 @@
 package main
 
 import (
-	"fmt"
+	"os"
 
-	"github.com/tidepool-org/tidepool-cli/version"
+	"github.com/tidepool-org/tidepool-cli/cmd"
 )
 
 func main() {
-	fmt.Println(version.Long())
+	cmd.NewApp().Run(os.Args)
 }
